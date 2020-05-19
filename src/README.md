@@ -1,5 +1,9 @@
 #### fundamental Topic
 * IAM
+    - users 
+    - Groups 
+    - Policies
+    - Roles 
 * VPC
 * EC2
 * ELB
@@ -12,4 +16,7 @@
 * S3
 * RDS
 * Route53
+* EMR
+* RedShift
+* Kenesis
 * 
